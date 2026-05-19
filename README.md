@@ -10,11 +10,10 @@ Building enterprise-grade systems with <strong>Java, Spring Boot, React, Microse
 ## 👨‍💻 About Me
 
 - 🔭 Currently building **KnowledgeOS** — an enterprise-grade, AI-powered, version-aware documentation platform
-- 💼 2.8+ years of experience at **TCS** (Financial Services domain)
+- 💼 3+ years of experience at **TCS** (Financial Services domain)
 - ⚙️ Hands-on with **Java, Spring Boot, Microservices, React, Redux, PostgreSQL, MongoDB, Redis**
 - 🤖 Exploring **GenAI, RAG, and Agentic AI** for enterprise solutions
-- 📍 Based in Pune, India
-- 🏋️ Gym enthusiast & lifelong learner
+- 🏋️ Gym enthusiast & long learner
 
 ---
 
